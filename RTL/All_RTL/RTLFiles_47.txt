@@ -1,0 +1,1 @@
+sram_sp_impl_plain.sv
